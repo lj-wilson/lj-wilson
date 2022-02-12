@@ -4,3 +4,4 @@ And more stuff
 Time logging - 2w 1d 4h 30m
 Time logging - 6h
 Added some tech debt in a label
+More time - 4h 30m plus putting a comment in the additional description
