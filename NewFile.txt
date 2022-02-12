@@ -7,3 +7,4 @@ Added some tech debt in a label
 More time - 4h 30m plus putting a comment in the additional description
 Another change - move to code review
 A commit without the Jira key
+Another commit without the Jira key
